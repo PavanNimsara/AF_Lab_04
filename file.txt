@@ -1,0 +1,1 @@
+Hello from file.txt! This file is being read by Node.js using the fs module.

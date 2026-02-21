@@ -1,0 +1,20 @@
+{
+  "name": "af_lab_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanNimsara/AF_Lab_04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanNimsara/AF_Lab_04/issues"
+  },
+  "homepage": "https://github.com/PavanNimsara/AF_Lab_04#readme"
+}
